@@ -1,2 +1,2 @@
-# AWS
-AWS learning path 
+# HTML
+HTML learning path 
